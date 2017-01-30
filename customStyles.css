@@ -7,6 +7,11 @@
 
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans|Yanone+Kaffeesatz);
 
+/*general link*/
+a {
+	color: #425491;
+}
+
 /*get rid of white space on top*/
 #navbar {
 	margin-top: 0;
