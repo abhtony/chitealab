@@ -12,6 +12,10 @@ a {
 	color: #425491;
 }
 
+a:hover {
+	color: #425491;
+}
+
 /*get rid of white space on top*/
 #navbar {
 	margin-top: 0;
