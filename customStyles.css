@@ -15,7 +15,6 @@
 /*Match Background-color in the top banner*/
 #navbar {
 	background-color: #FFF;
-	border-top: none !important;
 }
 
 /*header background*/
@@ -37,6 +36,7 @@
 
 #navbar {
 	border-bottom: 1px #e7e7e7;
+	border-top: none !important;
 }
 
 /*Makes the border of the nav bar extend all the way*/
