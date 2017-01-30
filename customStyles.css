@@ -15,6 +15,7 @@
 /*Match Background-color in the top banner*/
 #navbar {
 	background-color: #FFF;
+	border-top: none;
 }
 
 /*header background*/
