@@ -17,3 +17,10 @@
 #banner .actions {
 	display: none;
 }
+
+/* adjust image in the front page */
+.front-img {
+	display: block;
+	width: 100%;
+ 	height: auto;
+}
