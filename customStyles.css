@@ -2,6 +2,17 @@
 ==General==
 =====*/
 
+
+
+/*=====
+==Font Page (Home)==
+=====*/
+
+/* Get rid of page title "Home" */
+.front .page-title {
+	display: none;
+}
+
 /* Get rid of the buttons in banner */
 #banner .actions {
 	display: none;
