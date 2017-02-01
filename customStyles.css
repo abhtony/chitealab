@@ -38,3 +38,8 @@
 .front .fa {
 	font-size: 1.8em;
 }
+
+/* get rid of this random box that makes the page longer */
+#node-1 .box:last-child {
+	display: none;
+}
