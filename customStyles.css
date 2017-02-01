@@ -2,6 +2,10 @@
 ==General==
 =====*/
 
+/* search bar adjustments */
+#edit-search-block-form--2 {
+	max-width: 400px;
+}
 
 
 /*=====
