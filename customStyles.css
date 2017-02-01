@@ -24,3 +24,8 @@
 	width: 100%;
  	height: auto;
 }
+
+/* Diables box shadows cuz I don't like it */
+.front .box {
+	box-shadow: none;
+}
