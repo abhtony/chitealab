@@ -33,3 +33,8 @@
 .front .box {
 	box-shadow: none;
 }
+
+/* make the icons bigger on front page */
+.front .fa {
+	font-size: 1.8em;
+}
