@@ -41,6 +41,6 @@
 }
 
 /* get rid of this random box that makes the page longer */
-#node-1 .box:last-child {
+/* #node-1 .box:last-child {
 	display: none;
-}
+} */
