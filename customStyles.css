@@ -63,6 +63,10 @@ h4 + p, header h5 + p, header h6 + p {
 	display: none;
 }
 
+/* make the nav bar color more visible */
+#header #nav a {
+	color: #FFF;
+}
 
 /*=====
 ==Footer==
