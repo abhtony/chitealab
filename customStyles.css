@@ -44,3 +44,16 @@
 #node-1 > :last-child {
 	display: none;
 }
+
+
+
+
+
+/*=====
+==Footer==
+=====*/
+
+/* Get rid of social media icon and copyright sign */
+#footer .fa-icons, #footer .copyright {
+	display: none;
+}
