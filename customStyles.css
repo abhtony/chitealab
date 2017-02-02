@@ -41,6 +41,6 @@
 }
 
 /* get rid of this random box that makes the page longer */
-#main .box:last-child {
+#node-1 div:last-child {
 	background-color: tomato;
 }
