@@ -7,6 +7,13 @@
 	max-width: 400px;
 }
 
+/* fixed random text changes */
+h4 + p, header h5 + p, header h6 + p {
+    font-size: 1.0em;
+    margin-top: 0;
+    line-height: 1.0em;
+}
+
 
 /*=====
 ==Font Page (Home)==
