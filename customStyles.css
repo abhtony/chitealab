@@ -42,5 +42,6 @@
 
 /* get rid of this random box that makes the page longer */
 #node-1 > :last-child {
+	display: none;
 	background-color: tomato;
 }
