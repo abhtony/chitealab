@@ -47,6 +47,14 @@
 
 
 
+/*=====
+==Non-Front Page==
+=====*/
+
+/* get rid of this random box that makes the page longer */
+#node-2 > :last-child {
+	display: none;
+}
 
 
 /*=====
