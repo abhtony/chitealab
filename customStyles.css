@@ -76,8 +76,16 @@ h4 + p, header h5 + p, header h6 + p {
 	color: #FFF;
 }
 
+/* change header color */
 .not-front #header {
 	background-color: #75C8DD;
+}
+
+.not-front #logo {
+	display: block;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	background: url(https://abhtony.github.io/chitealab/header-2.jpg) no-repeat;
 }
 
 /*=====
