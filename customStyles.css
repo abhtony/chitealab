@@ -82,10 +82,7 @@ h4 + p, header h5 + p, header h6 + p {
 }
 
 .not-front #logo {
-	display: block;
-	-moz-box-sizing: border-box;
-	box-sizing: border-box;
-	background: url(https://abhtony.github.io/chitealab/header-2.jpg) no-repeat;
+	content: url("https://abhtony.github.io/chitealab/header-2.jpg");
 }
 
 /*=====
