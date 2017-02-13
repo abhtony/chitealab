@@ -62,6 +62,11 @@ h4 + p, header h5 + p, header h6 + p {
 	color: #1C5085;
 }
 
+/* make text size consistent within .major - usually only applies to h2 + p */
+.front .major p {
+	font-size: 1.25em;
+}
+
 /*=====
 ==Non-Front Page==
 =====*/
