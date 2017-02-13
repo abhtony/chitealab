@@ -78,6 +78,13 @@ ul li {
 	text-align: justify !important;
 }
 
+/* list styling for front page */
+.front ul li {
+    margin: 10px 0;
+    text-align: justify;
+    text-align-last: center;
+}
+
 /*=====
 ==Non-Front Page==
 =====*/
