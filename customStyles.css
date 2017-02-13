@@ -14,6 +14,12 @@ h4 + p, header h5 + p, header h6 + p {
     line-height: inherit;
 }
 
+/* basic formatting for lists */
+
+ul li {
+	list-style-type: none;
+}
+
 
 /*=====
 ==Font Page (Home)==
