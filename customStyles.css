@@ -93,3 +93,7 @@ h4 + p, header h5 + p, header h6 + p {
 #footer .fa-icons, #footer .copyright {
 	display: none;
 }
+
+#footer {
+	background-color: #75C8DD;
+}
