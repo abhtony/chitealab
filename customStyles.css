@@ -126,7 +126,13 @@ ul li {
 	display: none;
 }
 
+/* Footer color and font */
 #footer {
 	background-color: #75C8DD;
 	color: #FFF;
+}
+
+/* fix search form */
+#block-search-form .container-inline div {
+    display: inline-block;
 }
