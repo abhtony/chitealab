@@ -150,7 +150,7 @@ ul li {
 }
 
 /* search form background color */
-#edit-submit {
+#edit-submit, #edit-submit--2 {
 	background-color: #1C5085;
 }
 
