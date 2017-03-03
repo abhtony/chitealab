@@ -139,7 +139,7 @@ ul li {
 =====*/
 
 /* fix search form */
-#block-search-form .container-inline div, .page-search .form-item {
+#block-search-form .container-inline div, .page-search .container-inline div {
     display: inline-block;
 }
 
