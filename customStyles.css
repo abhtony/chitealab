@@ -136,3 +136,12 @@ ul li {
 #block-search-form .container-inline div {
     display: inline-block;
 }
+
+#block-search-form .form-item-search-block-form {
+	min-width: 300px;
+	color: #777;
+}
+
+#block-search-form #edit-submit {
+	background-color: #1C5085;
+}
