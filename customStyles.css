@@ -2,6 +2,11 @@
 ==General==
 =====*/
 
+/* link color in body */
+#main a {
+	color: #75C8DD;
+}
+
 /* search bar adjustments */
 #edit-search-block-form--2 {
 	max-width: 400px;
