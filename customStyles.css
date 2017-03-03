@@ -132,8 +132,14 @@ ul li {
 	color: #FFF;
 }
 
+
+
+/*=====
+==Search Forms and Search Page==
+=====*/
+
 /* fix search form */
-#block-search-form .container-inline div {
+#block-search-form .container-inline div, .page-search #edit-basic {
     display: inline-block;
 }
 
@@ -146,4 +152,9 @@ ul li {
 /* search form background color */
 #edit-submit {
 	background-color: #1C5085;
+}
+
+/*search page search form make things center*/
+.page-search #search-form {
+	text-align: center;
 }
