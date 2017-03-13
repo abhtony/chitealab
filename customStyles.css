@@ -170,6 +170,6 @@ ul li {
 }
 
 /*None-front page font increase*/
-.not-front .node div p {
+.not-front .node div p, .not-front .node div ul li {
 	font-size: 20px;
 }
