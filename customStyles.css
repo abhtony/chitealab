@@ -78,7 +78,7 @@ ul li {
 }
 
 /* make text size consistent within .major - usually only applies to h2 + p */
-.front .major p {
+.front .major p, .front ul li {
 	font-size: 1.25em;
 }
 
